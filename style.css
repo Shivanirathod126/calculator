@@ -1,0 +1,22 @@
+body{
+    background-color: lightpink;
+}
+.col-md-6{
+    margin-top: 150px;
+    background-color: lightblue !important;
+}
+input[type=button]{
+    width: 100%;
+    background-color: rgb(246, 250, 135);
+    font-weight: bolder;
+    border: 2px solid black!important;
+}
+input[type=text]
+{
+    width: 100%;
+}
+h1{
+    font-weight: bolder !important;
+    margin-top: 15px; 
+    text-align: center;   
+}
